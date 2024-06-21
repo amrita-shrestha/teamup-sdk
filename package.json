@@ -1,0 +1,27 @@
+{
+  "name": "teamup-sdk",
+  "version": "0.1.0",
+  "type": "module",
+  "author": "Amrita Shrestha <amritaxtha10@gmail.com>",
+  "description": "Teamup API client",
+  "main": "lib/teamup.js",
+  "scripts": {
+    "test": "node examples/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amrita-shrestha/teamup-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amrita-shrestha/teamup-sdk/issues"
+  },
+  "keywords": [
+    "teamup",
+    "teamup-client",
+    "teamup-sdk"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
